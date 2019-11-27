@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574887583 source:d:\program files\poo_tema\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
